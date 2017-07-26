@@ -1,2 +1,6 @@
 # teste-figura
 vamos tentar agora com figuras.
+  não conssigo colar um print.
+  vamos tentar outro tipo de figura.
+    bom, também não consegui...
+    tudo bem, vamos buscar mais informação e depois continuamos...
